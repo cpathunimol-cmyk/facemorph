@@ -1,0 +1,9 @@
+# Generated face-evolution output (large local media)
+EvoluzioneAntonia/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# macOS metadata
+.DS_Store
